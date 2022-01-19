@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cbn-file",
+  "private_key_id": "24bd0b635d349339a0f4ad2c5f074adda09d9a4d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtpTRSLpiNRUo1\nsGWuwVgSpAW1LSgtPcCdP5kwI8NKO15uSSkn9L5nGra1bAldVRDeIBjxUgQiNnqn\nAP/QOyBAjCvoZoexwU4E0FkiZVj+kFRH7yU5af2UYIqIIIixcda1V+flF0X1WLdy\nKVHtEGfqgf4qFrQC/ubjibs+Tl1bZk+rX1N8AocaiijJ0TAgq6z6nOz946MuGCKQ\nyvxAVi/TTxYT94oaiT2691Fww9QZCC2y8ddA16EMK9Op7SunzLQ+D0owe/B0cN0a\nHgo/HbWANnzYWRH4srUn0BDU0ctfkHFwOc+hQ9DlF200VnVFQGu8ybSzWuRtmHWF\n0WrYB/0RAgMBAAECggEAANAcDgonbwy8PI/LjJXLONxgNFm/nNE8v+jauhj7gb4h\njahsZW4w2bhKdBWUYe3yb4pLW17ke3YtvtkQkGISItrEOcywvTle3VlGsrGRbZAC\nA9wGrupesvyD+YOLTnP9BlLqBDIwvVqxNv68RQJvlNmEdcwC7U2FQKfDtwComklJ\n4AlJsjCeePagrwy1FcU6GKxxfb/w0d3HPaEWaW+dmwOsFysdKnUoo7u/UoPw6/cn\nf3I9bjbm56UImROvWB2MjmY3PVdiae9mu4bQ9IfyF0UL+x9JHmjieU63OM7JD0Rz\nw+enZgP+LHRu5p00/I0az7QDyF54OlZS3IJHBa05PwKBgQDru/UEFIBnTJX7GAaT\nmSyMeAIQMbUwgJ8w8RlLvD9cIHFxkh0ZnFfrx07tJzqkl0uYyQ/7N5ZsXStkgHeF\nfAZGd+YooXRsHuD+746Yk5IYAiQkztQz2PqguNFZVlqeOQqvaUyNi5TtW0Uwsu/H\nZ1ThM1XVYe6zAL6c2PNo2FBLNwKBgQC8kstJM2UDCHSoWwLkLGhviZq8pNfys5nM\n9uAPCBzrRlTV+dhxr04k8w+O5UYYHWR9YjRHrG65GMHYC/wDt3rek+sjz8HcFTTp\nWPV66odLO8dHYyjQK3gSmr/EnCbH+r5NPNLgf98NscU7sPRMBFg7j+c7OIOwfubv\neW/eED9t9wKBgQCOhNY/Hz36Nf0/D2l6dtLOIgftToAi0MBt0HXgqfEMe7jaVuIt\nB67IJ3l6O4ti0u2rc3OsCBFzdmiznE+mbjNFC1wlGGfQrmKM/rwRVrauuSys7Daz\nGe18mgBHqMOkgQwKvPjBYrApSFLufGAnCDvy4xxzo3+yzTJwlWGj85OnxQKBgDbD\nxwgORgK4fPC75b4Qa5Ag/XBVy2Vv5XXSKMYUzBlEBrVR5xs1F1PBxz3vtgig2KNV\nVuuN12YoG3u8F0eZDLUBbmOrHZjmC8TNEhXNcNdXmAtSb/Ls/OUiThkyZEzltEjI\nJlIOsN/QRgCM5pYBGQLLSxM22X/ziuv3b5alT1aHAoGAc40fCxrnixW6PVBOh/VT\natRail5b/q6QIPDsCU1+Nf41EdzlTYp+AYauPwCi69R5CI2zym3C3ZM/1Bq8CiWX\nCQbkdPkdzkiCvhEqopU+7IK+srgRxjWsqawxOqaA8WogONUWy8fo8nKAcNurO4zo\nKN05fqART1+Ki4xcmxHwsxc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cbn-file-automate@cbn-file.iam.gserviceaccount.com",
+  "client_id": "100947836208695419743",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cbn-file-automate%40cbn-file.iam.gserviceaccount.com"
+}
